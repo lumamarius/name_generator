@@ -10,3 +10,5 @@ sleep(3)
 print(f"Your name could be {main_character} {user_name} or {user_name} {main_character}!")
 sleep(3)
 print("Yes, the Generator is really useless. Thanks for trying it out tho! :)")
+
+print("Date of Creation: 26.10.2024 - Marius") #Just for me, to check my progress sometimes.
